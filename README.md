@@ -1,5 +1,5 @@
  <h1 align="center"> Hi I'm kariman thanks for visited my profile 👋</h1>
-<marquee>A scrolling text created with HTML Marquee element.</marquee>
+<span class=“marquee”>A scrolling text created with HTML Marquee element.</span>
 
 
 
