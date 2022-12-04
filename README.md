@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on data scientist and Machine learning freelancer and Instuctor. 
+- 📖 I finished my M.Sc degree in AI and machine learning from Queen's University in Kingston, ON, Canada with A+ grade.
+- 🧑‍🎓 I graduated from Computer science at Menofyai university.
+- 💬 Ask me about Python, SQL,BI, scikit-learn, pandas, matplotlib, numpy, scipy, Tkinter, NLTK, TensorFlow, Pytorch, Keras, seaborn.
+- 📫 How to reach me: KarimanKarmgabaa@gmail or www.linkedin.com/in/karimankarmgabaa .
+- ⚡ Fun fact: I love learning and everything related to data science and artificial intelligence science, and I love working hard.
+- 📄 Know about my experiences and check my resume.
 <!--
 **karimankarmgabaa/karimankarmgabaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
