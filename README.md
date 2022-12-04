@@ -1,5 +1,5 @@
  <h1   color="red" align= "center"> Hi I'm kariman thanks for visited my profile 👋</h1>
-
+<font color="red">This is some text!</font>
 <p align="center">
 <img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" alt="New trending GIF on Giphy | Animated gif, Computer animation, Funny gif" data-noaft="1" style="width: 315px; height: 315px; margin: 0px; "> </p>
 
