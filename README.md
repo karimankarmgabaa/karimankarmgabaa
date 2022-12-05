@@ -15,7 +15,7 @@
 - 💬 Ask me about Python, SQL,BI, scikit-learn, pandas, matplotlib, numpy, scipy, Tkinter, NLTK, TensorFlow, Pytorch, Keras, seaborn.
 - 📫 How to reach me: KarimanKarmgabaa@gmail or www.linkedin.com/in/karimankarmgabaa .
 - ⚡ Fun fact: I love learning and everything related to data science and artificial intelligence science, and I love working hard.
-- 📄 Know about my experiences and check my resume.
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
